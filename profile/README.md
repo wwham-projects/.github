@@ -1,8 +1,7 @@
-# 🌟 Wwham (We will help and make!)
+# 🌟 Wwham
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50F731&width=435&lines=We+Will+Help+and+Make!)](https://git.io/typing-svg)
 
 We are Wwham a community-driven organization dedicated to helping young people develop real-world skills, confidence, and curiosity through hands-on tech experiences.
-
----
 
 ## 🚀 What We Do
 
